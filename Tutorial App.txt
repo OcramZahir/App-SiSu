@@ -1,0 +1,10 @@
+Necesidades:
+
+DW CC, CS6.0, CS5.5
+http://developer.android.com/sdk/index.html
+http://www.dmxzone.com/go/21842/enable-server-behaviors-and-data-bindings-panel-support-for-dreamweaver-cc/
+http://www.bluestacks.com/
+http://www.java.com/es/download/
+http://www.java.com/es/download/help/path.xml
+https://build.phonegap.com/
+http://www.wampserver.com/en/    ----   http://www.apachefriends.org/es/xampp.html

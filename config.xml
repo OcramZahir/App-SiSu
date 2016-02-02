@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "1.0.0">
+
+<name>App Si_SU</name>
+
+<description>
+Captura de datos para realizacion de Sistemas de Sublimacion en manufactura de Celdas Fotovoltaicas.
+</description>
+
+<author href="https://mx.linkedin.com/in/ingmarcomtz" email="ing_marco_martinez@outlook.com">
+Marco Antonio MArtinez Loredo
+</author>
+
+</widget>
